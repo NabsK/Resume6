@@ -1,0 +1,19 @@
+#back-to-top {
+  bottom: 80px;
+  right: 80px;
+  position: fixed;
+}
+
+#navbar {
+  top: 0;
+  position: sticky;
+}
+
+#header {
+  position: relative;
+}
+
+#header-image {
+  position: relative;
+  top: 70px;
+}
